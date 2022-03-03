@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnzoBDF
 - 👀 I’m interested in Python, JavaScript and PHP
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 🙎‍♂️ 16 years old
 - 📫 my e-mail is: enzobatista24@gmail.com
 
