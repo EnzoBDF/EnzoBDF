@@ -13,7 +13,8 @@ I'm a High School student. I live in Brazil and i'm currently studying HTML and 
 <br>
 <hr> 
 <center>
-<img align=middle src=https://pbs.twimg.com/profile_images/1470147870032601091/vXLwgizF_400x400.jpg> 
+<img align=middle src=https://pbs.twimg.com/profile_images/1470147870032601091/vXLwgizF_400x400.jpg width=100 height=100> 
+ 
   <center>
 <!---
 EnzoBDF/EnzoBDF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
