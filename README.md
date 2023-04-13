@@ -48,14 +48,13 @@ Now, my GitHub is focused on school projects.
    <img align="center" alt="Enzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 </div>
-  
-  ##
+  <hr>
   <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/EnzoBDF/count.svg" />
 </p>
 <div>
-<img align=middle src=https://pbs.twimg.com/profile_images/1470147870032601091/vXLwgizF_400x400.jpg width=400 height=300 border-radius=50> 
+<img align=middle src=https://pbs.twimg.com/profile_images/1470147870032601091/vXLwgizF_400x400.jpg width=400 height=300> 
 <img align="middle" src="https://gifdb.com/images/high/rei-ayanami-fighting-scene-zm4su8pqff6a0yic.webp" width=400 height=300>
  </div>
 
