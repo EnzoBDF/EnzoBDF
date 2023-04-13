@@ -8,6 +8,12 @@
 I'm a High School student. I live In Brazil, i've already started my studies in 3 languages, HTML, CSS, JavaScript and JAVA, which i'm currently studying to improve even more my knowledge and skills, my goal is to follow a career in this area, where i hope i can develop great projects and to turn into a better person, walking side by side with my programming skills. Now, my GitHub is focused on school projects.
 
 <div align="center">
+ <div>
+<a href="https://github.com/EnzoBDF">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBDF&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoBDF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+<div align="center">
 <img height="300px" width="500px" src="https://github-readme-stats.vercel.app/api?username=EnzoBDf&show_icons=true&theme=synthwave">
 <img height="300px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBDf&theme=synthwave">
 </div>
