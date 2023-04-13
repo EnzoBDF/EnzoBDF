@@ -5,8 +5,9 @@
 - 👋 Hi, I’m @EnzoBDF
 - 👀 I’m interested in JavaScript, JAVA and backend development
 - 🌱 I’m currently learning HTML, CSS, JavaScript and JAVA
-- 🙎‍♂️ 16 years old
+- 🙎‍♂️ 17 years old
 - 📫 my e-mail is: enzobatista24@gmail.com
+- pego treino do tiktok
 
 ```
 I'm a High School student.
