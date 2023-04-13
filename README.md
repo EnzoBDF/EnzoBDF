@@ -24,7 +24,7 @@ I'm a High School student. I live In Brazil, i've already started my studies in 
 <hr> 
   <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/EnzoBDF/count.svg" />
 </p>
 <div>
 <img align=middle src=https://pbs.twimg.com/profile_images/1470147870032601091/vXLwgizF_400x400.jpg width=100 height=100 border-radius=50> 
