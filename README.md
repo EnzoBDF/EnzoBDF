@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monocraft&color=fff&size=30&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+GitHub+profile!;Bigborg+here;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monocraft&color=fff&size=30&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+GitHub+profile!;Bigborg+here!;)](https://git.io/typing-svg)
 
 ## Who i am:
 - 👋 Hi, I’m @EnzoBDF
