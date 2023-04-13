@@ -9,7 +9,7 @@ I'm a High School student. I live In Brazil, i've already started my studies in 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=EnzoBDf&show_icons=true&theme=synthwave">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBDf&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBDf&theme=synthwave)]">
 </div>
 <br>
 <div style="display: inline_block"><br>
