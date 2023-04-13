@@ -22,6 +22,10 @@ I'm a High School student. I live In Brazil, i've already started my studies in 
   <img align="center" alt="Enzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <hr> 
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 <div>
 <img align=middle src=https://pbs.twimg.com/profile_images/1470147870032601091/vXLwgizF_400x400.jpg width=100 height=100 border-radius=50> 
  </div>
