@@ -3,7 +3,14 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript and JAVA
 - 🙎‍♂️ 16 years old
 - 📫 my e-mail is: enzobatista24@gmail.com
-- 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Enzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Enzo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Enzo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Enzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Enzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 I'm a High School student. I live In Brazil, i've already started my studies in 3 languages, HTML, CSS, JavaScript and JAVA, which i'm currently studying to improve even more my knowledge and skills, my goal is to follow a career in this area, where i hope i can develop great projects and to turn into a better person, walking side by side with my programming skills. Now, my GitHub is focused on school projects.
 
