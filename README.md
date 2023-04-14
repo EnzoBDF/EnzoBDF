@@ -5,7 +5,7 @@
 - pego treino do tiktok
 ```
 I'm a High School student.
-I live In Brazil, i've already started my studies in 3 languages, HTML, CSS, JavaScript and JAVA,
+I live In Brazil, i've already started my studies in 4 languages, HTML, CSS, JavaScript and JAVA,
 which i'm currently studying to improve even more my knowledge and skills.
 my goal is to follow a career in this area, where
 i hope i can develop great projects and to turn into a better person, walking side by side with my programming skills. 
